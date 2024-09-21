@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos para el navbar en modo oscuro (dark mode) */
+:root[data-theme="dark"] .navbar {
+	background-color: #1a1b2e; /* Azul oscuro mate más suave */
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Borde sutil */
+}
+
+:root[data-theme="dark"] .navbar__title,
+:root[data-theme="dark"] .navbar__link {
+	color: #c18ce8; /* Púrpura claro */
+}
+
+:root[data-theme="dark"] .navbar__link:hover {
+	color: #e1a3ff; /* Color hover más claro */
+}
+
+/* Estilos para el footer en modo oscuro */
+:root[data-theme="dark"] .footer {
+	background-color: #1a1b2e; /* Azul oscuro mate */
+	color: #c18ce8; /* Púrpura claro para el texto */
+}
+
+:root[data-theme="dark"] .footer__title,
+:root[data-theme="dark"] .footer__link-item {
+	color: #c18ce8; /* Púrpura claro para los enlaces en el footer */
+}
+
+:root[data-theme="dark"] .footer__link-item:hover {
+	color: #e1a3ff; /* Hover más claro */
+}
+
+/* Estilos para el navbar en modo claro (light mode) */
+:root[data-theme="light"] .navbar {
+	background-color: #f0f0f0; /* Fondo blanco para light mode */
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Borde sutil */
+}
+
+:root[data-theme="light"] .navbar__title,
+:root[data-theme="light"] .navbar__link {
+	color: #4b0082; /* Púrpura oscuro para enlaces en light mode */
+}
+
+:root[data-theme="light"] .navbar__link:hover {
+	color: #6a0dad; /* Hover púrpura más claro */
+}
+
+/* Estilos para el footer en modo claro */
+:root[data-theme="light"] .footer {
+	background-color: #f0f0f0; /* Fondo gris claro para light mode */
+	color: #4b0082; /* Púrpura oscuro para el texto */
+}
+
+:root[data-theme="light"] .footer__title,
+:root[data-theme="light"] .footer__link-item {
+	color: #4b0082; /* Púrpura oscuro para los enlaces en el footer */
+}
+
+:root[data-theme="light"] .footer__link-item:hover {
+	color: #6a0dad; /* Hover púrpura más claro */
+}
+
+footer {
+	div {
+		div {
+			div {
+				div {
+					display: flex;
+					justify-content: center;
+				}
+				ul {
+					display: flex;
+					justify-content: center;
+					gap: 1rem;
+				}
+			}
+		}
+	}
+}
