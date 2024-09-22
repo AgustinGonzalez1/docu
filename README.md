@@ -1,41 +1,34 @@
-# Website
+# Documentación Técnica - Hecha con Amor ❤️
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Bienvenidos a esta documentación, creada con mucho cariño y dedicación para todos mis alumnos de **Play Code Latam**. Aquí encontrarás todo el conocimiento que he recopilado para que puedas aprender y mejorar tus habilidades de programación de una manera accesible y bien estructurada. Mi objetivo es que cada línea de código esté al alcance de todos, con un enfoque en la claridad y el aprendizaje.
 
-### Installation
+## Contenido
 
-```
-$ yarn
-```
+- **HTML**: Aprende a estructurar páginas web de manera semántica y eficiente.
+- **CSS**: Descubre cómo dar estilo y vida a tus proyectos con animaciones, diseños responsivos, y más.
+- **JavaScript**: Domina la lógica y la interactividad de tus aplicaciones web.
+- **React**: Componentes modernos, hooks, y todo lo que necesitas para construir interfaces dinámicas.
+- **Bootstrap**: Utiliza componentes prediseñados y un sistema de cuadrícula flexible.
+- **Tailwind CSS**: Dale estilo a tu sitio con clases de utilidad simples y potentes.
 
-### Local Development
+## Dedicado a Mis Alumnos
 
-```
-$ yarn start
-```
+Este material ha sido creado con amor para que puedas disfrutar aprendiendo. Sé lo difícil que puede ser comenzar a programar, pero con esta guía espero que encuentres el proceso mucho más amigable y divertido.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Conéctate Conmigo
 
-### Build
+No dudes en contactarme si tienes alguna duda o sugerencia. Estoy aquí para ayudarte en tu viaje de aprendizaje.
 
-```
-$ yarn build
-```
+- **LinkedIn**: [Ricardo Agustín González](https://www.linkedin.com/in/ricardoagustingonzalez/)
+- **Instagram**: [@agus.devv](https://www.instagram.com/agus.devv/)
+- **Portfolio**: [vulcanis.com.ar](http://vulcanis.com.ar)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## ¡Gracias por Estar Aquí! 🌟
 
-### Deployment
+Espero que esta documentación te sea útil y te inspire a seguir mejorando como desarrollador. Cada sección fue escrita con el propósito de brindar claridad y apoyo en tu camino hacia convertirte en un programador increíble. ¡Mucho éxito en tu aprendizaje!
 
-Using SSH:
+## Imagen de Marca
 
-```
-$ USE_SSH=true yarn deploy
-```
+![Logo](A.jpg)
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Gracias por ser parte de esta aventura.
