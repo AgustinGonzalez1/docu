@@ -19,7 +19,7 @@ Este material ha sido creado con amor para que puedas disfrutar aprendiendo. Sé
 
 No dudes en contactarme si tienes alguna duda o sugerencia. Estoy aquí para ayudarte en tu viaje de aprendizaje.
 
-- **LinkedIn**: [Ricardo Agustin González](https://www.linkedin.com/in/ricardoagustingonzalez/)
+- **LinkedIn**: [Ricardo Agustin Gonzalez](https://www.linkedin.com/in/ricardoagustingonzalez/)
 - **Instagram**: [@agus.devv](https://www.instagram.com/agus.devv/)
 - **Portfolio**: [vulcanis.com.ar](https://vulcanis.com.ar)
 
