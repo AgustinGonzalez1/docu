@@ -27,6 +27,8 @@ No dudes en contactarme si tienes alguna duda o sugerencia. Estoy aquí para ayu
 
 Espero que esta documentación te sea útil y te inspire a seguir mejorando como desarrollador. Cada sección fue escrita con el propósito de brindar claridad y apoyo en tu camino hacia convertirte en un programador increíble. ¡Mucho éxito en tu aprendizaje!
 
+## Play Code Latam
+
 ![Logo](./static/img/A.jpg)
 
 Gracias por ser parte de esta aventura.
