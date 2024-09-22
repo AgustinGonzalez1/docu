@@ -29,6 +29,10 @@ Espero que esta documentación te sea útil y te inspire a seguir mejorando como
 
 ## Play Code Latam
 
-![Logo](./static/img/A.jpg)
+![Logo](./static/img/A.jpg){ width=500 }
 
 Gracias por ser parte de esta aventura.
+
+## ⭐️ Deja una Estrella
+
+Si te ha sido útil esta documentación o te ha ayudado en tu proceso de aprendizaje, considera dejar una estrella ⭐️ en este repositorio. ¡Es una forma sencilla de apoyar y hacerme saber que te ha servido!
