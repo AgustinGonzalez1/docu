@@ -29,7 +29,7 @@ Espero que esta documentación te sea útil y te inspire a seguir mejorando como
 
 ## Play Code Latam
 
-![Logo { width=500 }](./static/img/A.jpg)
+![Logo](./static/img/A.jpg)
 
 Gracias por ser parte de esta aventura.
 
