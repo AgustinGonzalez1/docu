@@ -29,6 +29,6 @@ Espero que esta documentación te sea útil y te inspire a seguir mejorando como
 
 ## Imagen de Marca
 
-![Logo](img/A.jpg)
+![Logo](./static/img/A.jpg)
 
 Gracias por ser parte de esta aventura.
