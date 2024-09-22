@@ -5,7 +5,7 @@ module.exports = {
 	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
-	favicon: "img/favicon.ico",
+	favicon: "img/A.jpg",
 	organizationName: "ProfeAgus",
 	projectName: "documentacion-web",
 
